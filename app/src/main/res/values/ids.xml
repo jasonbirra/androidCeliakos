@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="titulo1text" type="id" />
+    <item name="LinearLayout" type="id" />
+    <item name="imageView5" type="id" />
+    <item name="titulo2Text" type="id" />
+    <item name="imageView7" type="id" />
+    <item name="imageView6" type="id" />
+    <item name="titulo3Text" type="id" />
+</resources>
